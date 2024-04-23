@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CGMMiddleWare</name>
+    </assembly>
+    <members>
+        <member name="P:CGMMiddleWare.Models.SecurityQuestion.OrganisationId">
+            <summary>
+            If null - default
+            </summary>
+        </member>
+    </members>
+</doc>

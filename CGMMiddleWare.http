@@ -1,0 +1,6 @@
+@CGMMiddleWare_HostAddress = http://localhost:5030
+
+GET {{CGMMiddleWare_HostAddress}}/api/DealAPI/GetAllDeals
+Accept: application/json
+
+###
